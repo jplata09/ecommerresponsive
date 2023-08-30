@@ -112,7 +112,7 @@ img{
 }
 
 @media screen and (max-width:600px) {
-  header ul{
+  header nav{
     display: none;
   }
 
